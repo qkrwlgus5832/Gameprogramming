@@ -1,8 +1,8 @@
-#include "hw3.h"
+#include "../header/hw3.h"
 #include <time.h>
 #include <string>
-#include "SoundManager.h"
-#include "Character.h"
+#include "../header/SoundManager.h"
+#include "../header/Character.h"
 
 /* 현재 윈도우 창의 크기 */
 FLOAT winWidth;

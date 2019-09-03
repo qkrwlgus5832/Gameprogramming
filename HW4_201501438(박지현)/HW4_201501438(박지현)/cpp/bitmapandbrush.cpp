@@ -1,4 +1,4 @@
-#include "hw3.h"
+#include "../header/hw3.h"
 
 HRESULT DemoApp::CreateDeviceResources()
 {

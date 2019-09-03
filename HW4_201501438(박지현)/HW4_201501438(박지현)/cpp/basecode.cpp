@@ -1,5 +1,5 @@
-#include "hw3.h"
-#include "Character.h"
+#include "../header/hw3.h"
+#include "../header/Character.h"
 
 const int NUM_ENEMIES = 3;
 

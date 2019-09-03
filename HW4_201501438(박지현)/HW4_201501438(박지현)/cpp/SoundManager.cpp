@@ -2,7 +2,7 @@
 // Original Version (Nov. 2007) from (SDK root)\Samples\C++\DXUT\Optional\SDKsound,SDKwavefile.
 //
 
-#include "SoundManager.h"
+#include "../header/SoundManager.h"
 #include <mmsystem.h>
 
 

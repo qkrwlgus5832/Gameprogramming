@@ -1,14 +1,2 @@
-﻿  SoundAndAI.cpp
-c:\users\home\documents\카카오톡 받은 파일\hw3_201501438(박지현)\hw3_201501438(박지현)\soundandai.cpp(127): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
-c:\users\home\documents\카카오톡 받은 파일\hw3_201501438(박지현)\hw3_201501438(박지현)\soundandai.cpp(129): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
-c:\users\home\documents\카카오톡 받은 파일\hw3_201501438(박지현)\hw3_201501438(박지현)\soundandai.cpp(83): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
-  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdio.h(1822): note: 'swprintf' 선언을 참조하십시오.
-c:\users\home\documents\카카오톡 받은 파일\hw3_201501438(박지현)\hw3_201501438(박지현)\soundandai.cpp(87): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
-  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdio.h(1822): note: 'swprintf' 선언을 참조하십시오.
-c:\users\home\documents\카카오톡 받은 파일\hw3_201501438(박지현)\hw3_201501438(박지현)\soundandai.cpp(91): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
-  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdio.h(1822): note: 'swprintf' 선언을 참조하십시오.
-c:\users\home\documents\카카오톡 받은 파일\hw3_201501438(박지현)\hw3_201501438(박지현)\soundandai.cpp(95): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
-  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdio.h(1822): note: 'swprintf' 선언을 참조하십시오.
-c:\users\home\documents\카카오톡 받은 파일\hw3_201501438(박지현)\hw3_201501438(박지현)\soundandai.cpp(118): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
-  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdio.h(1822): note: 'swprintf' 선언을 참조하십시오.
-  hw5.vcxproj -> C:\Users\home\Documents\카카오톡 받은 파일\HW3_201501438(박지현)\HW3_201501438(박지현)\Debug\hw3.exe
+﻿  Character.cpp
+  hw5.vcxproj -> C:\Users\home\Desktop\HW4_201501438(박지현)\HW4_201501438(박지현)\HW4_201501438(박지현)\Debug\hw3.exe

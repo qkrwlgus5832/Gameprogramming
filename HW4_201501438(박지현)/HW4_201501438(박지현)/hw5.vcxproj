@@ -79,21 +79,21 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="Animation.h" />
-    <ClInclude Include="Character.h" />
-    <ClInclude Include="FiniteStateMachine.h" />
-    <ClInclude Include="hw3.h" />
-    <ClInclude Include="SoundManager.h" />
+    <ClInclude Include="header\Animation.h" />
+    <ClInclude Include="header\Character.h" />
+    <ClInclude Include="header\FiniteStateMachine.h" />
+    <ClInclude Include="header\hw3.h" />
+    <ClInclude Include="header\SoundManager.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="basecode.cpp" />
-    <ClCompile Include="bitmapandbrush.cpp" />
-    <ClCompile Include="Character.cpp" />
-    <ClCompile Include="deviceindependent.cpp" />
-    <ClCompile Include="FiniteStateMachine.cpp" />
-    <ClCompile Include="hw3.cpp" />
-    <ClCompile Include="SoundAndAI.cpp" />
-    <ClCompile Include="SoundManager.cpp" />
+    <ClCompile Include="cpp\basecode.cpp" />
+    <ClCompile Include="cpp\bitmapandbrush.cpp" />
+    <ClCompile Include="cpp\Character.cpp" />
+    <ClCompile Include="cpp\deviceindependent.cpp" />
+    <ClCompile Include="cpp\FiniteStateMachine.cpp" />
+    <ClCompile Include="cpp\hw3.cpp" />
+    <ClCompile Include="cpp\SoundAndAI.cpp" />
+    <ClCompile Include="cpp\SoundManager.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="hw3.rc" />

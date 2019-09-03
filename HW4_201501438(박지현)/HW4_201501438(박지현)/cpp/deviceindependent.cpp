@@ -1,4 +1,4 @@
-#include "hw3.h"
+#include "../header/hw3.h"
 
 using namespace D2D1;
 HRESULT DemoApp::CreateDeviceIndependentResources()

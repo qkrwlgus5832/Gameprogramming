@@ -1,4 +1,4 @@
-#include "Character.h"
+#include "../header/Character.h"
 #include "time.h"
 
 bool Character::isAttacked = false;

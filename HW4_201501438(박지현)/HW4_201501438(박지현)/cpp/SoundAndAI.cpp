@@ -1,5 +1,5 @@
-#include "hw3.h"
-#include "SoundManager.h"
+#include "../header/hw3.h"
+#include "../header/SoundManager.h"
 #include <time.h>
 
 using namespace D2D1;
